@@ -50,7 +50,7 @@ Material - `ElevatedButton`, `OutlinedButton`, `FilledButton`, `TextButton`의 s
 
 ### 코드
 
-```dart
+``` dart
 import 'package:flutter/material.dart';
 
 class ScaleButton extends StatefulWidget {
