@@ -1,7 +1,7 @@
 ---
 title: "[Flutter] 누를 때 크기가 변하는 버튼 만들기"
 summary: "GestureDetector로 누를 때 크기가 변하는 일종의 Scale Down Button 위젯을 만들어보자."
-tags: ["flutter"]
+tags: ["Flutter"]
 date: "2024-11-06"
 ---
 
@@ -50,7 +50,7 @@ Material - `ElevatedButton`, `OutlinedButton`, `FilledButton`, `TextButton`의 s
 
 ### 코드
 
-```Dart
+```dart
 import 'package:flutter/material.dart';
 
 class ScaleButton extends StatefulWidget {
